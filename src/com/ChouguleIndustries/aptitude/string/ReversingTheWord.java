@@ -3,7 +3,7 @@ package com.ChouguleIndustries.aptitude.string;
 public class ReversingTheWord {
 
 	public static void main(String[] args) {
-		String s = "Rakshitha";
+		String s = "Tony";
 		char[] ch = s.toCharArray();
 		String s1 = "";
 
